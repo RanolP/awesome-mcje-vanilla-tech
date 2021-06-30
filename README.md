@@ -37,6 +37,10 @@
 
 - [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) by VelVoxel Raptor - Creating a 90 degree flipped view by spectating or glowing entity tricks.
 
+### Via Item
+
+- [Thirst Bar In Vanilla Minecraft 1.10](https://youtu.be/mpoWfQ_kAxU) by VelVoxel Raptor - Creating a thirst bar by placing custom item on 9th slot of hotbar.
+
 ## Custom Recipe
 
 - [1.13 Custom NBT Crafting Workaround](https://youtu.be/gwCwZ5ZDnvo) by VelVoxel Raptor - Adding the recipe for Spawn Eggs to make the item not acquistable by survival play and replacing the item when use to attaching NBTs to the item.
