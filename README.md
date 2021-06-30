@@ -56,6 +56,7 @@
 ### Implementation
 
 - [Chest Menu/GUI Tutorial in Minecraft](https://youtu.be/OOuRyx0Ipe4) by Cloud Wolf - A full guide to create chest menu with vanilla commands.
+- [Drop Item Menu/GUI Tutorial in Minecraft [1.14/15+]](https://youtu.be/mbwhc5qC47k) by Cloud Wolf - A full guide to create drop item menu with vanilla commands.
 
 ## Custom Recipe
 
