@@ -26,6 +26,8 @@
 
 ## Adding Blocks
 
+- [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) by Cloud Wolf - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
+
 ## Adding Entities
 
 ## Custom UI
