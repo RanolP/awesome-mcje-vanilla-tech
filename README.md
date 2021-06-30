@@ -5,6 +5,7 @@
 ## Contents
 
 - [Basic Techniques](#basic-techniques)
+- [Adding Items](#adding-items)
 - [Adding Blocks](#adding-blocks)
 - [Adding Entities](#adding-entities)
 - [Custom UI](#custom-ui)
@@ -13,12 +14,18 @@
 
 - [AmberWat/NegativeSpaceFont](https://github.com/AmberWat/NegativeSpaceFont) - A hacky font for creating overlapped characters.
 
+## Adding Items
+
+### Armor
+
+- [Custom Armor - In Vanilla Minecraft! (ft. AncientKingg)](https://youtu.be/Ape1acitJCc) by VelVoxel Raptor - Creating not only the armor item but also the armor texture by modifying shader.
+
 ## Adding Blocks
-
-### Via Font
-
-- [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A comprehensive guide and example for creating UI with custom character with Action Bars.
 
 ## Adding Entities
 
 ## Custom UI
+
+### Via Font
+
+- [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A comprehensive guide and example for creating UI with custom character with Action Bars.
