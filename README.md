@@ -13,6 +13,7 @@
 ## Basic Techniques
 
 - [AmberWat/NegativeSpaceFont](https://github.com/AmberWat/NegativeSpaceFont) - A hacky font for creating overlapped characters.
+- [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/) - A great guide for modifying the rendering pipeline of Minecraft: Java Edition with shader.
 
 ## Adding Items
 
@@ -28,4 +29,4 @@
 
 ### Via Font
 
-- [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A comprehensive guide and example for creating UI with custom character with Action Bars.
+- [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A guide and example for creating UI with custom character with Action Bars.
