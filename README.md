@@ -10,6 +10,7 @@
 - [Adding Entities](#adding-entities)
 - [Custom UI](#custom-ui)
 - [Custom Recipe](#custom-recipe)
+- [Others](#others)
 
 ## Basic Techniques
 
@@ -45,3 +46,7 @@
 ## Custom Recipe
 
 - [1.13 Custom NBT Crafting Workaround](https://youtu.be/gwCwZ5ZDnvo) by VelVoxel Raptor - Adding the recipe for Spawn Eggs to make the item not acquistable by survival play and replacing the item when use to attaching NBTs to the item.
+
+## Others
+
+- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) - Using Eye of Ender to detect right click faster than Carrot of a Stick
