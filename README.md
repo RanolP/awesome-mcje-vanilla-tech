@@ -1,2 +1,5 @@
-# awesome-mcje-vanilla-tech
-Minecraft: Java Edition is a sandbox game you can create a lot of stuffs, however there are a few limitations you would want to bypass. And, there's a little solutions.
+# Awesome MCJE Vanilla Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+> Curated list for Minecraft: Java Edition Vanilla Technique for Bypassing Limitations
+
+## Tablet of Contents
