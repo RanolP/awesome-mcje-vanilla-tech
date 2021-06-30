@@ -9,6 +9,7 @@
 - [Adding Blocks](#adding-blocks)
 - [Adding Entities](#adding-entities)
 - [Custom UI](#custom-ui)
+- [Custom Recipe](#custom-recipe)
 
 ## Basic Techniques
 
@@ -35,3 +36,7 @@
 ### Via Shader
 
 - [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) by VelVoxel Raptor - Creating a 90 degree flipped view by spectating or glowing entity tricks.
+
+## Custom Recipe
+
+- [1.13 Custom NBT Crafting Workaround](https://youtu.be/gwCwZ5ZDnvo) by VelVoxel Raptor - Adding the recipe for Spawn Eggs to make the item not acquistable by survival play and replacing the item when use to attaching NBTs to the item.
