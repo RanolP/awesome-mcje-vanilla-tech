@@ -20,6 +20,7 @@
 ### Armor
 
 - [Custom Armor - In Vanilla Minecraft! (ft. AncientKingg)](https://youtu.be/Ape1acitJCc) by VelVoxel Raptor - Creating not only the armor item but also the armor texture by modifying shader.
+- Simulating Player with Armor Stand
 
 ## Adding Blocks
 
