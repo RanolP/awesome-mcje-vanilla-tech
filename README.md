@@ -43,7 +43,7 @@
 ### Via Shader
 
 - [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) by VelVoxel Raptor - Creating a 90 degree flipped view by spectating or glowing entity tricks.
-- [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) by Cloud Wolf - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the color of the entity (not sure).
+- [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) by Cloud Wolf - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the transparency shader that work when see color on a specific position(maybe center) with entity (not sure).
 
 ### Via Item
 
