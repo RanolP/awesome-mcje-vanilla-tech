@@ -16,6 +16,7 @@
 
 - [AmberWat/NegativeSpaceFont](https://github.com/AmberWat/NegativeSpaceFont) - A hacky font for creating overlapped characters.
 - [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/) by SirBenet - A great guide for modifying the rendering pipeline of Minecraft: Java Edition with shader.
+- [Entity Shaders in Minecraft [1.15+] [Datapack]](https://youtu.be/r29Rj01t_Cs) by Cloud Wolf - Applying shader of an entity using bug, be careful when using this and may be removed in future version.
 
 ## Custom Items
 
@@ -39,6 +40,7 @@
 ### Via Font
 
 - [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A guide and example for creating UI with custom character with Action Bars.
+- [Darken Screen Effect in Minecraft](https://youtu.be/FkLtgmW_JpU) by Cloud Wolf - Using big enough character on title to create a darken screen effect.
 
 ### Via Shader
 
