@@ -19,6 +19,7 @@
 - [AmberWat/NegativeSpaceFont](https://github.com/AmberWat/NegativeSpaceFont) - A hacky font for creating overlapped characters.
 - [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/) by SirBenet - A great guide for modifying the rendering pipeline of Minecraft: Java Edition with shader.
 - [Entity Shaders in Minecraft [1.15+] [Datapack]](https://youtu.be/r29Rj01t_Cs) by Cloud Wolf - Applying shader of an entity using bug, be careful when using this and may be removed in future version.
+- [Toggleable Minecraft shaders](https://pastebin.com/Z2Q47AfT) - Great guide for shader selection technique.
 
 ## Custom Items
 
