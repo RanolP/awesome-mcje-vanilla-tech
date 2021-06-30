@@ -31,3 +31,7 @@
 ### Via Font
 
 - [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A guide and example for creating UI with custom character with Action Bars.
+
+### Via Shader
+
+- [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) by VelVoxel Raptor - Creating a 90 degree flipped view by spectating or glowing entity tricks.
