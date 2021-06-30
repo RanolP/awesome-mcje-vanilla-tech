@@ -2,4 +2,8 @@
 
 > Curated list for Minecraft: Java Edition Vanilla Technique for Bypassing Limitations
 
-## Tablet of Contents
+## Contents
+
+- Adding Block
+- Adding Entity
+- Custom UI
