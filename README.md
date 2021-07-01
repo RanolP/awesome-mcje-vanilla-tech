@@ -97,6 +97,7 @@ This section is stub.
 - [Open Note Block Studio](https://opennbs.org/) - Good tool for creating a song using note blocks.
 - [OrangeUtan/vscode-mcmodel-viewer](https://github.com/OrangeUtan/vscode-mcmodel-viewer) - A model viewer for Visual Studio Code.
 - [SPYGlassMC/vscode-datapack](https://github.com/SPYGlassMC/vscode-datapack) - Good extension for creating data packs on Visual Studio Code.
+- [misode/vscode-nbt](https://github.com/misode/vscode-nbt) - VSCode extension to view Minecraft NBT files. For structure files, this shows a 3D block view.
 
 ## References
 
