@@ -17,72 +17,78 @@
 
 ## Basic Techniques
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [AmberWat/NegativeSpaceFont](https://github.com/AmberWat/NegativeSpaceFont) - A hacky font for creating overlapped characters.
-- [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/) by SirBenet - A great guide for modifying the rendering pipeline of Minecraft: Java Edition with shader.
-- [Entity Shaders in Minecraft [1.15+] [Datapack]](https://youtu.be/r29Rj01t_Cs) by Cloud Wolf - Applying shader of an entity using bug, be careful when using this and may be removed in future version.
+- [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/) - A great guide for modifying the rendering pipeline of Minecraft: Java Edition with shader.
+- [Entity Shaders in Minecraft [1.15+] [Datapack]](https://youtu.be/r29Rj01t_Cs) - Applying shader of an entity using bug, be careful when using this and may be removed in future version.
 - [Toggleable Minecraft shaders](https://pastebin.com/Z2Q47AfT) - Great guide for shader selection technique.
 
 ## Custom Items
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 ### Armor
 
-- [Custom Armor - In Vanilla Minecraft! (ft. AncientKingg)](https://youtu.be/Ape1acitJCc) by VelVoxel Raptor - Creating not only the armor item but also the armor texture by modifying shader.
+- [Custom Armor - In Vanilla Minecraft! (ft. AncientKingg)](https://youtu.be/Ape1acitJCc) - Creating not only the armor item but also the armor texture by modifying shader.
 - Simulating Player with Armor Stand
 
 ### Others
 
-- [Dynamic Lore with /item in Minecraft](https://youtu.be/ffQsQQ7sJzw) by Cloud Wolf - Using score or entity name on the lore to create a dynamic lore without changing the item entirely.
+- [Dynamic Lore with /item in Minecraft](https://youtu.be/ffQsQQ7sJzw) - Using score or entity name on the lore to create a dynamic lore without changing the item entirely.
 
 ## Custom Blocks
 
 <sup>[🔝 Back to Top](#contents)</sup>
 
-- [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) by Cloud Wolf - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
-- [Easily Create CUSTOM BLOCKS! || Minecraft Data Pack Tutorial 1.16](https://youtu.be/LUx9FqJpxQk) by Timber Forge - Same as Cloud Wolf's one. But with more explanation about the technique.
+- [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
+- [Easily Create CUSTOM BLOCKS! || Minecraft Data Pack Tutorial 1.16](https://youtu.be/LUx9FqJpxQk) - Same as Cloud Wolf's one. But with more explanation about the technique.
 
 ## Custom Entities
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 This section is stub.
 
 ## Custom UI
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 ### Visual
 
 #### Via Font
 
-- [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) by Cloud Wolf - A guide and example for creating UI with custom character with Action Bars.
-- [Darken Screen Effect in Minecraft](https://youtu.be/FkLtgmW_JpU) by Cloud Wolf - Using big enough character on title to create a darken screen effect.
+- [Make Custom UI Bars in Minecraft](https://youtu.be/EL2X6ppZSCQ) - A guide and example for creating UI with custom character with Action Bars.
+- [Darken Screen Effect in Minecraft](https://youtu.be/FkLtgmW_JpU) - Using big enough character on title to create a darken screen effect.
 
 #### Via Shader
 
-- [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) by VelVoxel Raptor - Creating a 90 degree flipped view by spectating or glowing entity tricks.
-- [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) by Cloud Wolf - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the transparency shader that work when see color on a specific position(maybe center) with entity (not sure).
+- [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) - Creating a 90 degree flipped view by spectating or glowing entity tricks.
+- [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the transparency shader that work when see color on a specific position(maybe center) with entity (not sure).
 
 #### Via Item
 
-- [Thirst Bar In Vanilla Minecraft 1.10](https://youtu.be/mpoWfQ_kAxU) by VelVoxel Raptor - Creating a thirst bar by placing custom item on 9th slot of hotbar.
+- [Thirst Bar In Vanilla Minecraft 1.10](https://youtu.be/mpoWfQ_kAxU) - Creating a thirst bar by placing custom item on 9th slot of hotbar.
 
 ### Implementation
 
-- [Chest Menu/GUI Tutorial in Minecraft](https://youtu.be/OOuRyx0Ipe4) by Cloud Wolf - A full guide to create chest menu with vanilla commands.
-- [Drop Item Menu/GUI Tutorial in Minecraft [1.14/15+]](https://youtu.be/mbwhc5qC47k) by Cloud Wolf - A full guide to create drop item menu with vanilla commands.
+- [Chest Menu/GUI Tutorial in Minecraft](https://youtu.be/OOuRyx0Ipe4) - A full guide to create chest menu with vanilla commands.
+- [Drop Item Menu/GUI Tutorial in Minecraft [1.14/15+]](https://youtu.be/mbwhc5qC47k) - A full guide to create drop item menu with vanilla commands.
 
 ## Custom Recipe
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
-- [1.13 Custom NBT Crafting Workaround](https://youtu.be/gwCwZ5ZDnvo) by VelVoxel Raptor - Adding the recipe for Spawn Eggs to make the item not acquistable by survival play and replacing the item when use to attaching NBTs to the item.
+- [1.13 Custom NBT Crafting Workaround](https://youtu.be/gwCwZ5ZDnvo) - Adding the recipe for Spawn Eggs to make the item not acquistable by survival play and replacing the item when use to attaching NBTs to the item.
 
 ## Softwares
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [Blockbench](https://www.blockbench.net/) - Awesome modeling program for Minecraft.
@@ -93,6 +99,7 @@ This section is stub.
 
 ## References
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [Minecraft Commands Questions](https://github.com/mcfaq) - Holds a few questions about Minecraft commands.
@@ -100,13 +107,15 @@ This section is stub.
 
 ## Other Techniques
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
-- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) by Cloud Wolf - Using Eye of Ender to detect right click faster than Carrot of a Stick
-- [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) by Timber Forge - Good method to check precise hitbox collision.
+- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) - Using Eye of Ender to detect right click faster than Carrot of a Stick
+- [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) - Good method to check precise hitbox collision.
 
 ## Works
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [[1.14 ~ 1.14.4] DIO DataPack](https://www.planetminecraft.com/data-pack/1-14-dio-datapack/) - Aesthetic example for shader selection and animation.
