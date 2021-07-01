@@ -114,3 +114,4 @@ This section is stub.
 - [MapleCraft - An old version Maplestory project](https://www.planetminecraft.com/project/maplecraft-an-old-version-maplestory-project/) - How did they get here?
 - [OrangeUtan/mc-wind-shader](https://github.com/OrangeUtan/mc-wind-shader) - Creating wind effect on leaves by using shader.
 - [bradleyq/mc_vanilla_shaders](https://github.com/bradleyq/mc_vanilla_shaders) - Creating water reflection by using shader.
+- [bradleyq/shader-toolkit](https://github.com/bradleyq/shader-toolkit) - Useful Minecraft: Java Edition 1.17 Vanilla shader examples.
