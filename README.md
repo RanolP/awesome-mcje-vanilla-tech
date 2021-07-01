@@ -99,6 +99,8 @@ This section is stub.
 
 ## References
 
+<sup>[🔝 Back to Top](#contents)</sup>
+
 - [Minecraft Commands Questions](https://github.com/mcfaq) - Holds a few questions about Minecraft commands.
 
 ## Works
