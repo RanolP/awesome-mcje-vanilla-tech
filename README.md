@@ -69,6 +69,7 @@
 ## Softwares
 
 - [Blockbench](https://www.blockbench.net/) - Awesome modeling program for Minecraft.
+- [mcbeet/beet](https://github.com/mcbeet/beet) - Toolchain for creating data pack and resource pack.
 
 ## Others
 
