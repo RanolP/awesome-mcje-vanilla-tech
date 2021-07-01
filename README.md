@@ -41,6 +41,7 @@
 
 ## Custom Blocks
 
+<!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
@@ -110,7 +111,7 @@ This section is stub.
 <!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
-- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) - Using Eye of Ender to detect right click faster than Carrot of a Stick
+- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) - Using Eye of Ender to detect right click faster than Carrot of a Stick.
 - [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) - Good method to check precise hitbox collision.
 
 ## Works
