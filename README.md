@@ -91,19 +91,19 @@ This section is stub.
 - [OrangeUtan/vscode-mcmodel-viewer](https://github.com/OrangeUtan/vscode-mcmodel-viewer) - A model viewer for Visual Studio Code.
 - [SPYGlassMC/vscode-datapack](https://github.com/SPYGlassMC/vscode-datapack) - Good extension for creating data packs on Visual Studio Code.
 
-## Other Techniques
-
-<sup>[🔝 Back to Top](#contents)</sup>
-
-- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) by Cloud Wolf - Using Eye of Ender to detect right click faster than Carrot of a Stick
-- [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) by Timber Forge - Good method to check precise hitbox collision.
-
 ## References
 
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [Minecraft Commands Questions](https://github.com/mcfaq) - Holds a few questions about Minecraft commands.
 - [A Question On Commands](https://aqoc.github.io/) - A collection of common questions related to commands, datapacks, and mapmaking in general.
+
+## Other Techniques
+
+<sup>[🔝 Back to Top](#contents)</sup>
+
+- [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) by Cloud Wolf - Using Eye of Ender to detect right click faster than Carrot of a Stick
+- [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) by Timber Forge - Good method to check precise hitbox collision.
 
 ## Works
 
