@@ -11,17 +11,17 @@
 - [Custom UI](#custom-ui)
 - [Custom Recipe](#custom-recipe)
 - [Softwares](#softwares)
-- [Others](#others)
+- [Other Techniques](#other-techniques)
 - [Works](#works)
 
-## Basic Techniques
+## Basic Techniques <sub>[🔝 Back to Top](#contents)</sub>
 
 - [AmberWat/NegativeSpaceFont](https://github.com/AmberWat/NegativeSpaceFont) - A hacky font for creating overlapped characters.
 - [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/) by SirBenet - A great guide for modifying the rendering pipeline of Minecraft: Java Edition with shader.
 - [Entity Shaders in Minecraft [1.15+] [Datapack]](https://youtu.be/r29Rj01t_Cs) by Cloud Wolf - Applying shader of an entity using bug, be careful when using this and may be removed in future version.
 - [Toggleable Minecraft shaders](https://pastebin.com/Z2Q47AfT) - Great guide for shader selection technique.
 
-## Custom Items
+## Custom Items <sub>[🔝 Back to Top](#contents)</sub>
 
 ### Armor
 
@@ -32,14 +32,14 @@
 
 - [Dynamic Lore with /item in Minecraft](https://youtu.be/ffQsQQ7sJzw) by Cloud Wolf - Using score or entity name on the lore to create a dynamic lore without changing the item entirely.
 
-## Custom Blocks
+## Custom Blocks <sub>[🔝 Back to Top](#contents)</sub>
 
 - [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) by Cloud Wolf - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
 - [](https://youtu.be/LUx9FqJpxQk) by Timber Forge - Same as Cloud Wolf's one. But with more explanation about the technique.
 
-## Custom Entities
+## Custom Entities <sub>[🔝 Back to Top](#contents)</sub>
 
-## Custom UI
+## Custom UI <sub>[🔝 Back to Top](#contents)</sub>
 
 ### Visual
 
@@ -62,22 +62,22 @@
 - [Chest Menu/GUI Tutorial in Minecraft](https://youtu.be/OOuRyx0Ipe4) by Cloud Wolf - A full guide to create chest menu with vanilla commands.
 - [Drop Item Menu/GUI Tutorial in Minecraft [1.14/15+]](https://youtu.be/mbwhc5qC47k) by Cloud Wolf - A full guide to create drop item menu with vanilla commands.
 
-## Custom Recipe
+## Custom Recipe <sub>[🔝 Back to Top](#contents)</sub>
 
 - [1.13 Custom NBT Crafting Workaround](https://youtu.be/gwCwZ5ZDnvo) by VelVoxel Raptor - Adding the recipe for Spawn Eggs to make the item not acquistable by survival play and replacing the item when use to attaching NBTs to the item.
 
-## Softwares
+## Softwares <sub>[🔝 Back to Top](#contents)</sub>
 
 - [Blockbench](https://www.blockbench.net/) - Awesome modeling program for Minecraft.
 - [mcbeet/beet](https://github.com/mcbeet/beet) - Toolchain for creating data pack and resource pack.
 - [Open Note Block Studio](https://opennbs.org/) - Good tool for creating a song using note blocks.
 
-## Others
+## Other Techniques <sub>[🔝 Back to Top](#contents)</sub>
 
 - [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) by Cloud Wolf - Using Eye of Ender to detect right click faster than Carrot of a Stick
 - [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) by Timber Forge - Good method to check precise hitbox collision.
 
-## Works
+## Works <sub>[🔝 Back to Top](#contents)</sub>
 
 - [[1.14 ~ 1.14.4] DIO DataPack](https://www.planetminecraft.com/data-pack/1-14-dio-datapack/) - Aesthetic example for shader animation.
 - [[19w06a] Immortal Soul - Brand New Form Boss Fight Map](https://www.planetminecraft.com/project/19w06a-immortal-soul-brand-new-form-boss-fight-map/) - Great application of various techniques.
