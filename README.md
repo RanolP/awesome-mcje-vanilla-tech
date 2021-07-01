@@ -109,7 +109,7 @@ This section is stub.
 
 <sup>[🔝 Back to Top](#contents)</sup>
 
-- [[1.14 ~ 1.14.4] DIO DataPack](https://www.planetminecraft.com/data-pack/1-14-dio-datapack/) - Aesthetic example for shader animation.
+- [[1.14 ~ 1.14.4] DIO DataPack](https://www.planetminecraft.com/data-pack/1-14-dio-datapack/) - Aesthetic example for shader selection and animation.
 - [[19w06a] Immortal Soul - Brand New Form Boss Fight Map](https://www.planetminecraft.com/project/19w06a-immortal-soul-brand-new-form-boss-fight-map/) - Great application of various techniques.
 - [MapleCraft - An old version Maplestory project](https://www.planetminecraft.com/project/maplecraft-an-old-version-maplestory-project/) - How did they get here?
 - [OrangeUtan/mc-wind-shader](https://github.com/OrangeUtan/mc-wind-shader) - Creating wind effect on leaves by using shader.
