@@ -87,6 +87,7 @@ This section is stub.
 - [Blockbench](https://www.blockbench.net/) - Awesome modeling program for Minecraft.
 - [mcbeet/beet](https://github.com/mcbeet/beet) - Toolchain for creating data pack and resource pack.
 - [Open Note Block Studio](https://opennbs.org/) - Good tool for creating a song using note blocks.
+- [OrangeUtan/vscode-mcmodel-viewer](https://github.com/OrangeUtan/vscode-mcmodel-viewer) - A model viewer for Visual Studio Code.
 
 ## Other Techniques
 
