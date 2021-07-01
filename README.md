@@ -11,6 +11,7 @@
 - [Custom UI](#custom-ui)
 - [Custom Recipe](#custom-recipe)
 - [Softwares](#softwares)
+- [References](#references)
 - [Other Techniques](#other-techniques)
 - [Works](#works)
 
@@ -95,6 +96,10 @@ This section is stub.
 
 - [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) by Cloud Wolf - Using Eye of Ender to detect right click faster than Carrot of a Stick
 - [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) by Timber Forge - Good method to check precise hitbox collision.
+
+## References
+
+- [Minecraft Commands Questions](https://github.com/mcfaq) - Holds a few questions about Minecraft commands.
 
 ## Works
 
