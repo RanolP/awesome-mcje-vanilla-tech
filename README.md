@@ -70,6 +70,7 @@
 
 - [Blockbench](https://www.blockbench.net/) - Awesome modeling program for Minecraft.
 - [mcbeet/beet](https://github.com/mcbeet/beet) - Toolchain for creating data pack and resource pack.
+- [Open Note Block Studio](https://opennbs.org/) - Good tool for creating a song using note blocks.
 
 ## Others
 
