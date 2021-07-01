@@ -32,12 +32,12 @@
 
 - [Dynamic Lore with /item in Minecraft](https://youtu.be/ffQsQQ7sJzw) by Cloud Wolf - Using score or entity name on the lore to create a dynamic lore without changing the item entirely.
 
-## Adding Blocks
+## Custom Blocks
 
 - [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) by Cloud Wolf - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
 - [](https://youtu.be/LUx9FqJpxQk) by Timber Forge - Same as Cloud Wolf's one. But with more explanation about the technique.
 
-## Adding Entities
+## Custom Entities
 
 ## Custom UI
 
