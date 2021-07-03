@@ -107,6 +107,8 @@ This section is stub.
 
 - [Minecraft Commands Questions](https://github.com/mcfaq) - Holds a few questions about Minecraft commands.
 - [A Question On Commands](https://aqoc.github.io/) - A collection of common questions related to commands, datapacks, and mapmaking in general.
+- [skylinerw/guides](https://github.com/skylinerw/guides) - A set of guides about Minecraft commands.
+- [Arcensoth/mcdata](https://github.com/Arcensoth/mcdata) - Version-controlled history of Minecraft's generated data.
 
 ## Other Techniques
 
@@ -127,3 +129,5 @@ This section is stub.
 - [OrangeUtan/mc-wind-shader](https://github.com/OrangeUtan/mc-wind-shader) - Creating wind effect on leaves by using shader.
 - [bradleyq/mc_vanilla_shaders](https://github.com/bradleyq/mc_vanilla_shaders) - Creating water reflection by using shader.
 - [bradleyq/shader-toolkit](https://github.com/bradleyq/shader-toolkit) - Useful Minecraft: Java Edition 1.17 Vanilla shader examples.
+- [onnowhere/Color-Blindness-Simulation-Shaders](https://github.com/onnowhere/Color-Blindness-Simulation-Shaders) - Shaders simulating 8 different color blindness types. Intended for vanilla Minecraft 1.16.2.
+- [bradleyq/light_painter](https://github.com/bradleyq/light_painter) -  Screen space point lights using MC's exposed transparency shaders.
