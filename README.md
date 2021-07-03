@@ -32,7 +32,7 @@
 
 ### Armor
 
-- [Custom Armor - In Vanilla Minecraft! (ft. AncientKingg)](https://youtu.be/Ape1acitJCc) - Creating not only the armor item but also the armor texture by modifying shader.
+- [Ancientkingg/fancyPants](https://github.com/Ancientkingg/fancyPants) - Creating not only the armor item but also the armor texture by modifying shader.
 - Simulating Player with Armor Stand
 
 ### Others
