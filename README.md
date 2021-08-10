@@ -70,7 +70,7 @@ This section is stub.
 
 #### Via Shader
 
-- [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) - Creating a 90 degree flipped view by spectating or glowing entity tricks.
+- [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) - Creating a 90 degree rotated view by spectating or glowing entity tricks.
 - [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the Toggleable Minecraft shaders from Basic Technique section.
 - [Removing Red Numbers From Sidebars (1.17)](https://youtu.be/dD6V0bKf-Bc) - A shader trick to remove red numbers on sidebar from the game, however it removes some red numbers on not critical places too.
 
