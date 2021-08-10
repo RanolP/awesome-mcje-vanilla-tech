@@ -127,7 +127,7 @@ This section is stub.
 <!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
-- [TheEpicBlock/PolyMc](https://github.com/TheEpicBlock/PolyMc) - Convert the contents from Fabric mods into Vanilla-compatible data.
+- [TheEpicBlock/PolyMc](https://github.com/TheEpicBlock/PolyMc) - A Fabric mod makes the client not to require Fabric mods by converting the mods' stuff with Vanilla's one.
 
 ## Works
 
