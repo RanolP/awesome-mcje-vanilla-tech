@@ -47,7 +47,7 @@
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [Custom Blocks in Minecraft](https://youtu.be/ENK0b_2yT1c) - A comprehensive guide and examples with comparison between the one he picked, using item frame with transparent blocks, and the other methods, using armor stand(using more data than more stand), double slab with waterlogged (when it breaks, the water would be exposed), note blocks(right click would change the model, but may be good for plugins) and spawner with spawning armor stand(it has a chance to misalign the entity).
-- [Easily Create CUSTOM BLOCKS! || Minecraft Data Pack Tutorial 1.16](https://youtu.be/LUx9FqJpxQk) - Same as Cloud Wolf's one. But with more explanation about the technique.
+- [Easily Create CUSTOM BLOCKS! || Minecraft Data Pack Tutorial 1.16](https://youtu.be/LUx9FqJpxQk) - Same as above one. But with more explanation about the technique.
 
 ## Custom Entities
 
@@ -71,7 +71,7 @@ This section is stub.
 #### Via Shader
 
 - [Flipping Gravity - In Minecraft!](https://youtu.be/L7fdljqk2jA) - Creating a 90 degree flipped view by spectating or glowing entity tricks.
-- [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the transparency shader that work when see color on a specific position(maybe center) with entity (not sure).
+- [Vanilla Shader HUD/Overlay in Minecraft](https://youtu.be/Lz5eS2_BTJ4) - A tutorial for creating UI with shader and Proof-of-Concept for dynamically changing shader UI (after 13:20), it may used the Toggleable Minecraft shaders from Basic Technique section.
 - [Removing Red Numbers From Sidebars (1.17)](https://youtu.be/dD6V0bKf-Bc) - A shader trick to remove red numbers on sidebar from the game, however it removes some red numbers on not critical places too.
 
 #### Via Item
