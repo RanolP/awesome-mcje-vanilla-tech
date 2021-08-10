@@ -102,6 +102,7 @@ This section is stub.
 - [SPYGlassMC/vscode-datapack](https://github.com/SPYGlassMC/vscode-datapack) - Good extension for creating data packs on Visual Studio Code.
 - [misode/vscode-nbt](https://github.com/misode/vscode-nbt) - VSCode extension to view Minecraft NBT files. For structure files, this shows a 3D block view.
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) -  A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
+- [MCStacker](https://mcstacker.net/) - Various command generator.
 
 ## References
 
