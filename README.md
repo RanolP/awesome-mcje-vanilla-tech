@@ -13,6 +13,7 @@
 - [Softwares](#softwares)
 - [References](#references)
 - [Other Techniques](#other-techniques)
+- [Communities](#communities)
 - [Experiments](#experiments)
 - [Works](#works)
 
@@ -124,6 +125,13 @@ This section is stub.
 - [Fastest Right Click Detection in Minecraft](https://youtu.be/JjaFlK4L8QQ) - Using Eye of Ender to detect right click faster than Carrot of a Stick.
 - [Detect HEADSHOTS, Make LASER GATES - Precise Hitbox Detection || Minecraft Datapack Tutorial](https://youtu.be/kKS3sF0X4Is) - Good method to check precise hitbox collision.
 - [[Concept] Simple translational dynamics with ray-casting [MC 1.10.X]](https://youtu.be/ljm0Aj3G7qo) - (just for the archive) When Minecraft doesn't have built-in ray tracing method. Achieved by using boat and showed some examples utilizing the technique.
+
+## Communities
+
+<!--lint ignore double-link-->
+<sup>[🔝 Back to Top](#contents)</sup>
+
+- [/r/MinecraftCommands](https://www.reddit.com/r/MinecraftCommands/) - Big Reddit Minecraft command community. It has a GitHub organization and Discord server.
 
 ## Experiments
 
