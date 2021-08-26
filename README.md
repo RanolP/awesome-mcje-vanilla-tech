@@ -153,4 +153,9 @@ This section is stub.
 - [bradleyq/mc_vanilla_shaders](https://github.com/bradleyq/mc_vanilla_shaders) - Creating water reflection by using shader.
 - [bradleyq/shader-toolkit](https://github.com/bradleyq/shader-toolkit) - Useful Minecraft: Java Edition 1.17 Vanilla shader examples.
 - [onnowhere/Color-Blindness-Simulation-Shaders](https://github.com/onnowhere/Color-Blindness-Simulation-Shaders) - Shaders simulating 8 different color blindness types. Intended for vanilla Minecraft 1.16.2.
-- [bradleyq/light_painter](https://github.com/bradleyq/light_painter) -  Screen space point lights using MC's exposed transparency shaders.
+- [bradleyq/light_painter](https://github.com/bradleyq/light_painter) - Screen space point lights using MC's exposed transparency shaders.
+- [ICY105/Mechanization](https://github.com/ICY105/Mechanization) - A Minecraft datapack aimed at recreating popular tech mods like IC2 and Thermal Expansion. 
+- [eatYourHashs/florcraft](https://github.com/eatYourHashs/florcraft) - A magic datapack inspired by Thaumcraft and centered around nature magic.
+- [eatYourHashs/UM](https://github.com/eatYourHashs/UM) - Undermagic, a minecraft datapack adding a massive amount of content and boss battles.
+- [asdru22/Accessory-Bag](https://github.com/asdru22/Accessory-Bag) -  Adds accessories and other small features.
+- [tempestsbox/ttb](https://github.com/tempestsbox/ttb) - The Tempest's Box adds countless features to the game, providing you with many new items, blocks, entities, structures, and more!
