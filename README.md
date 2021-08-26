@@ -140,6 +140,7 @@ This section is stub.
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [TheEpicBlock/PolyMc](https://github.com/TheEpicBlock/PolyMc) - A Fabric mod makes the client not to require Fabric mods by converting the mods' stuff with Vanilla's one.
+- [oraxen/oraxen](https://github.com/oraxen/oraxen) - Oraxen is a minecraft plugin that allows to easily use Minecraft 1.14 features in order to create new items with custom textures. It handles the resourcepack generation, upload (using Polymath), is fully open source and has an extensible API.
 
 ## Works
 
