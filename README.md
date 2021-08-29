@@ -160,3 +160,4 @@ This section is stub.
 - [eatYourHashs/UM](https://github.com/eatYourHashs/UM) - Undermagic, a minecraft datapack adding a massive amount of content and boss battles.
 - [asdru22/Accessory-Bag](https://github.com/asdru22/Accessory-Bag) -  Adds accessories and other small features.
 - [tempestsbox/ttb](https://github.com/tempestsbox/ttb) - The Tempest's Box adds countless features to the game, providing you with many new items, blocks, entities, structures, and more!
+- [Gamemode 4](https://gm4.co/) - Gamemode 4 is an open-source data pack collection designed to augment the vanilla survival experience. We aim to provide well balanced, vanilla-like extensions, all whilst having minimal performance impact!
