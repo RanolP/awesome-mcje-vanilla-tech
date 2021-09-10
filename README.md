@@ -11,6 +11,7 @@
 - [Custom UI](#custom-ui)
 - [Custom Recipe](#custom-recipe)
 - [Softwares](#softwares)
+- [Utilities](#utilities)
 - [References](#references)
 - [Other Techniques](#other-techniques)
 - [Communities](#communities)
@@ -107,6 +108,13 @@ This section is stub.
 - [Minecraft Heads](https://minecraft-heads.com/) - A collection of decorative head textures.
 - [Tellraw Generator for Minecraft](https://www.minecraftjson.com/) - Not only generates the tellraw but also generates the other JSON text related commands.
 - [Minecraft Statue Generator 1.17+](https://raketenben.github.io/statue-generator/) - Creating a statue of a player with a lot of Armor Stands. Do not use any resource-pack at all.
+
+## Utilities
+
+<!--lint ignore double-link-->
+<sup>[🔝 Back to Top](#contents)</sup>
+
+- [MC Assets](https://mcasset.cloud/) - Getting Minecraft assets without digging Minecraft files.
 
 ## References
 
