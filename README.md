@@ -109,6 +109,11 @@ This section is stub.
 - [Tellraw Generator for Minecraft](https://www.minecraftjson.com/) - Not only generates the tellraw but also generates the other JSON text related commands.
 - [Minecraft Statue Generator 1.17+](https://raketenben.github.io/statue-generator/) - Creating a statue of a player with a lot of Armor Stands. Do not use any resource-pack at all.
 
+### Programming Languages compiles to MCFunction
+
+- [Miestrode/bell](https://github.com/Miestrode/bell) - Work in progress programming language to help Minecraft data pack developers work smarter and faster.
+- [Inky-developer/debris](https://github.com/Inky-developer/debris) - Debris is a powerful language & compiler which aims to make the process of creating a datapack easier and quicker.
+
 ## Utilities
 
 <!--lint ignore double-link-->
