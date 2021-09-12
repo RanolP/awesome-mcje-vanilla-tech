@@ -2,6 +2,8 @@
 
 > Curated List for Minecraft: Java Edition Vanilla Technique for Creating Great Stuff
 
+You may also want to see [lolgeny/awesome-mcc](https://github.com/lolgeny/awesome-mcc).
+
 ## Contents
 
 - [Basic Techniques](#basic-techniques)
