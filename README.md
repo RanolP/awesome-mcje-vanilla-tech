@@ -14,7 +14,7 @@ You may also want to see [lolgeny/awesome-mcc](https://github.com/lolgeny/awesom
 - [Custom Recipe](#custom-recipe)
 - [Softwares](#softwares)
 - [Utilities](#utilities)
-- [References](#references)
+- [Guides](#guides)
 - [Other Techniques](#other-techniques)
 - [Communities](#communities)
 - [Experiments](#experiments)
@@ -112,7 +112,6 @@ This section is stub.
 - [Minecraft Statue Generator 1.17+](https://raketenben.github.io/statue-generator/) - Creating a statue of a player with a lot of Armor Stands. Do not use any resource-pack at all.
 - [Chunker](https://chunker.app/) - A world converter for going between Bedrock and Java.
 
-
 ### Programming Languages compiles to MCFunction
 
 - [Miestrode/bell](https://github.com/Miestrode/bell) - Work in progress programming language to help Minecraft data pack developers work smarter and faster.
@@ -124,8 +123,9 @@ This section is stub.
 <sup>[🔝 Back to Top](#contents)</sup>
 
 - [MC Assets](https://mcasset.cloud/) - Getting Minecraft assets without digging Minecraft files.
+- [Plagiatus/MapmakingTemplate](https://github.com/Plagiatus/MapmakingTemplate) - A good template for making a great map.
 
-## References
+## Guides
 
 <!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
@@ -134,6 +134,7 @@ This section is stub.
 - [A Question On Commands](https://aqoc.github.io/) - A collection of common questions related to commands, datapacks, and mapmaking in general.
 - [skylinerw/guides](https://github.com/skylinerw/guides) - A set of guides about Minecraft commands.
 - [Arcensoth/mcdata](https://github.com/Arcensoth/mcdata) - Version-controlled history of Minecraft's generated data.
+- [How not to use `execute`](https://gist.github.com/Aeldrion/419e3da12666280cbfd2dabf567dc36c) - A guide for avoiding substitutable execute commands.
 
 ## Other Techniques
 
@@ -178,3 +179,4 @@ This section is stub.
 - [asdru22/Accessory-Bag](https://github.com/asdru22/Accessory-Bag) -  Adds accessories and other small features.
 - [tempestsbox/ttb](https://github.com/tempestsbox/ttb) - The Tempest's Box adds countless features to the game, providing you with many new items, blocks, entities, structures, and more!
 - [Gamemode 4](https://gm4.co/) - Gamemode 4 is an open-source data pack collection designed to augment the vanilla survival experience. We aim to provide well balanced, vanilla-like extensions, all whilst having minimal performance impact!
+- [McTsts/mc-core-shaders](https://github.com/McTsts/mc-core-shaders) - A collection of shaders containing hide scoreboard number trick, blinking eye of one's skin with damage color customization, and more.
