@@ -117,6 +117,7 @@ This section is stub.
 
 - [Miestrode/bell](https://github.com/Miestrode/bell) - Work in progress programming language to help Minecraft data pack developers work smarter and faster.
 - [Inky-developer/debris](https://github.com/Inky-developer/debris) - Debris is a powerful language & compiler which aims to make the process of creating a datapack easier and quicker.
+- [EMCL Compiler](https://heledron.com/tools/emcl-compiler/) - EMCL (Extended Minecraft Command Language) is a language designed to compile to Minecraft function files. It implements data types, mathematical expressions, and high-level control flow like loops.
 
 ## Utilities
 
