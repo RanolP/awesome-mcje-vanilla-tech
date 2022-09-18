@@ -58,7 +58,7 @@ You may also want to see [lolgeny/awesome-mcc](https://github.com/lolgeny/awesom
 <!--lint ignore double-link-->
 <sup>[🔝 Back to Top](#contents)</sup>
 
-This section is stub.
+- [unnamed/hephaestus-engine](https://github.com/unnamed/hephaestus-engine) - Render, animate and interact with custom entity models in Minecraft: Java Edition servers.
 
 ## Custom UI
 
